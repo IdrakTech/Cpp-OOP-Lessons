@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VisualStudia - STEP-IT\c++ - Class\c++ - Class\Source.cpp(32,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  c++ - Class.vcxproj -> D:\VisualStudia - STEP-IT\c++ - Class\x64\Debug\c++ - Class.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\12. C++ - Operators overloading\Source.cpp(117,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\12. C++ - Operators overloading\Source.cpp(177,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  12. C++ - Operators overloading.vcxproj -> E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\12. C++ - Operators overloading\Debug\12. C++ - Operators overloading.exe

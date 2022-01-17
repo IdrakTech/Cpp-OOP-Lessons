@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\11. C++ - MyString\Source.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\11. C++ - MyString\Source.cpp(46,25): error C2451: a conditional expression of type 'void' is not valid
+E:\IDRAK\Fuad\STEP IT\VisualStudia - Lessons\C-OOP\11. C++ - MyString\Source.cpp(46,18): message : Expressions of type void cannot be converted to other types
